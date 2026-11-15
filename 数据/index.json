@@ -1,0 +1,179 @@
+{
+ "name": "shizheng-2026",
+ "coverage": "2026年1月—10月（20期讲练）",
+ "module_count": 12,
+ "entry_count": 450,
+ "question_count": 1112,
+ "modules": [
+  {
+   "code": "01",
+   "name": "党的创新理论与《求是》重要文章",
+   "file": "references/m01-党的创新理论与求是重要文章.md",
+   "count": 20,
+   "intro": "《求是》杂志重要文章与习近平总书记重要讲话原文，是政治理论命题的“原文出处”。先记框架（几大板块、几个必须、几个坚持），再记表述细节。"
+  },
+  {
+   "code": "02",
+   "name": "党的建设与全面从严治党",
+   "file": "references/m02-党的建设与全面从严治党.md",
+   "count": 7,
+   "intro": "全面从严治党、党的自我革命、作风建设、反腐败斗争、政绩观学习教育为本模块主线，注意“三个更加”“两个维护”“第二个答案”等固定表述。"
+  },
+  {
+   "code": "03",
+   "name": "中国式现代化与“十五五”规划",
+   "file": "references/m03-中国式现代化与十五五规划.md",
+   "count": 10,
+   "intro": "二十届四中全会、中央经济工作会议、全国两会、政府工作报告构成主干。核心是“十五五”规划的目标、主题、主线、动力、根本保证。"
+  },
+  {
+   "code": "04",
+   "name": "经济建设与改革开放",
+   "file": "references/m04-经济建设与改革开放.md",
+   "count": 10,
+   "intro": "财政货币政策、扩内需促消费、民营经济、统一大市场、自贸区与高水平开放。注意数字型考点（赤字率、专项债、增速目标）。"
+  },
+  {
+   "code": "05",
+   "name": "农业农村与乡村振兴",
+   "file": "references/m05-农业农村与乡村振兴.md",
+   "count": 4,
+   "intro": "中央农村工作会议、中央一号文件为纲。“两条底线”（粮食安全、不发生规模性返贫）+“三个提升”（乡村产业、建设、治理）。"
+  },
+  {
+   "code": "06",
+   "name": "科技创新与产业发展",
+   "file": "references/m06-科技创新与产业发展.md",
+   "count": 192,
+   "intro": "本模块条数最多，考试以“首次/最大/首个/世界第一”型单选为主。抓“名称—成就—地点—时间”四要素配对。"
+  },
+  {
+   "code": "07",
+   "name": "民生社会与生态文明",
+   "file": "references/m07-民生社会与生态文明.md",
+   "count": 32,
+   "intro": "教育、医疗、医保、养老、就业、生育、生态环保。多为政策文件与指标型考点，注意2030/2035年等时间节点。"
+  },
+  {
+   "code": "08",
+   "name": "文化自信与文体旅",
+   "file": "references/m08-文化自信与文体旅.md",
+   "count": 73,
+   "intro": "文化传承、文博考古、文旅融合、体育赛事、电影戏剧。常考“主题口号”“举办地”“届次”与“入选名录”。"
+  },
+  {
+   "code": "09",
+   "name": "民主法治、国家安全与国防",
+   "file": "references/m09-民主法治国家安全与国防.md",
+   "count": 41,
+   "intro": "立法修法、法典、国家安全、应急管理、国防动员。关注“施行日期”与“第几部法典”类比较型考点。"
+  },
+  {
+   "code": "10",
+   "name": "外交与国际",
+   "file": "references/m10-外交与国际.md",
+   "count": 15,
+   "intro": "元首外交、多边峰会、全球治理倡议。常考“倡议名称—提出时间—提出场合”以及峰会主题、举办地。"
+  },
+  {
+   "code": "11",
+   "name": "数据成就与年度盘点",
+   "file": "references/m11-数据成就与年度盘点.md",
+   "count": 4,
+   "intro": "统计公报、排名指数、年度盘点。数字必须与指标名称绑定记忆，避免“换了指标配错数”。"
+  },
+  {
+   "code": "12",
+   "name": "纪念日与周年",
+   "file": "references/m12-纪念日与周年.md",
+   "count": 42,
+   "intro": "周年纪念、节气节日、纪念活动。常考“第几个”“周年数”“主题”，属于高频送分点。"
+  }
+ ],
+ "question_modules": [
+  {
+   "code": "01",
+   "name": "党的创新理论与《求是》重要文章",
+   "count": 106,
+   "q": "references/q01.md",
+   "a": "references/a01.md"
+  },
+  {
+   "code": "02",
+   "name": "党的建设与全面从严治党",
+   "count": 45,
+   "q": "references/q02.md",
+   "a": "references/a02.md"
+  },
+  {
+   "code": "03",
+   "name": "中国式现代化与“十五五”规划",
+   "count": 72,
+   "q": "references/q03.md",
+   "a": "references/a03.md"
+  },
+  {
+   "code": "04",
+   "name": "经济建设与改革开放",
+   "count": 130,
+   "q": "references/q04.md",
+   "a": "references/a04.md"
+  },
+  {
+   "code": "05",
+   "name": "农业农村与乡村振兴",
+   "count": 57,
+   "q": "references/q05.md",
+   "a": "references/a05.md"
+  },
+  {
+   "code": "06",
+   "name": "科技创新与产业发展",
+   "count": 161,
+   "q": "references/q06.md",
+   "a": "references/a06.md"
+  },
+  {
+   "code": "07",
+   "name": "民生社会与生态文明",
+   "count": 118,
+   "q": "references/q07.md",
+   "a": "references/a07.md"
+  },
+  {
+   "code": "08",
+   "name": "文化自信与文体旅",
+   "count": 52,
+   "q": "references/q08.md",
+   "a": "references/a08.md"
+  },
+  {
+   "code": "09",
+   "name": "民主法治、国家安全与国防",
+   "count": 76,
+   "q": "references/q09.md",
+   "a": "references/a09.md"
+  },
+  {
+   "code": "10",
+   "name": "外交与国际",
+   "count": 66,
+   "q": "references/q10.md",
+   "a": "references/a10.md"
+  },
+  {
+   "code": "11",
+   "name": "数据成就与年度盘点",
+   "count": 66,
+   "q": "references/q11.md",
+   "a": "references/a11.md"
+  },
+  {
+   "code": "12",
+   "name": "纪念日与周年",
+   "count": 163,
+   "q": "references/q12.md",
+   "a": "references/a12.md"
+  }
+ ]
+}
